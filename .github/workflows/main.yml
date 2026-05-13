@@ -59,7 +59,7 @@ on:
 
       bundle_id:
         description: "BundleID (Optional)"
-        default: "com.google.ios.youtube"
+        default: "com.krtlsae.youtube"
         required: true
         type: string
 
